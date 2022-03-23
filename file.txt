@@ -1,1 +1,2 @@
-Hi! My name is Halley and this is my first time using Git. 
+Hi! My name is Halley and this is my first time using Git.
+So far, it is going pretty good.  
