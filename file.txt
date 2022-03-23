@@ -1,2 +1,3 @@
 Hi! My name is Halley and this is my first time using Git.
 So far, it is going pretty good.  
+Okay, this isn't too bad! This is my new line of text.
